@@ -59,9 +59,13 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    experience: 
-     details: |
-      During my worklife in ČSOB I accepted and succeded in 4 challenges. First of them began during my university studies - to become IT Tester of main ČSOB branch application. It was really good start of my career there. Second challenge insisted of analysing changes in the same application. I spent x years in IT analyst role. After this challenge came the third one. I became IT application engeneer of the main ČSOB branch application. After some time I was took responsibility for all the application. I contained release coordination too. In the summer of 2018 I decided to come back to orginising people. It meant the final challenge for me. I started to learn how to be professional in this area. During almost 2 years of acting as Project manager in ČSOB I had a chance to deliver 2 big projects. In first case, I was participating as IT Project manager on project with budget over 31M CZK. Second one project I lead by myself. There were budget over 12M CZK and I was able to save 21% of planned costs. 
+    experiences:
+    - role:
+      time:
+      company:
+      details: |
+        During my worklife in ČSOB I accepted and succeded in 4 challenges. First of them began during my university studies - to become IT Tester of main ČSOB branch application. It was really good start of my career there. Second challenge insisted of analysing changes in the same application. I spent x years in IT analyst role. After this challenge came the third one. I became IT application engeneer of the main ČSOB branch application. After some time I was took responsibility for all the application. I contained release coordination too. In the summer of 2018 I decided to come back to orginising people. It meant the final challenge for me. I started to learn how to be professional in this area. During almost 2 years of acting as Project manager in ČSOB I had a chance to deliver 2 big projects. In first case, I was participating as IT Project manager on project with budget over 31M CZK. Second one project I lead by myself. There were budget over 12M CZK and I was able to save 21% of planned costs. 
+      
 projects:
     title: Projects
     intro: >
