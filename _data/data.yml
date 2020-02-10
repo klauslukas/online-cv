@@ -77,12 +77,10 @@ projects:
 publications:
     title: Why might you want me?
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      I'm good in using these tools:
     papers:
       - title: MS Outlook
-      - tittle: MS Excel
+      - title: MS Excel
 - MS Word
 - MS Project
 - JIRA
