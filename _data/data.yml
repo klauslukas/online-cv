@@ -81,7 +81,12 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: MS Outlook
+      - tittle: MS Excel
+- MS Word
+- MS Project
+- JIRA
+- Sharepoint
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
