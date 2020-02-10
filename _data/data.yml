@@ -81,10 +81,10 @@ publications:
     papers:
       - title: MS Outlook
       - title: MS Excel
-- MS Word
-- MS Project
-- JIRA
-- Sharepoint
+      - title: MS Word
+      - title: MS Project
+      - title: JIRA
+      - title: Sharepoint
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
