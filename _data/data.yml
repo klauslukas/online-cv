@@ -77,17 +77,12 @@ experiences:
 publications:
     title: Why might you want me?
     intro: |
-      I did participating on projects with the best PMs in ČSOB.
+      Except delivering my own projects I did participating on projects with the best PMs in ČSOB.
       In February 2019 I gained PRINCE2®Foundation certification.
       I have lead both IT and BUS projects.
-      I gained many experience with these PM tools:
-    papers:
-      - title: MS Project
-      - title: JIRA
-      - title: Sharepoint
-      - title: MS Outlook
-      - title: MS Excel
-      - title: MS Word
+      During my IT career a gained a lot of experience with projects from IT specialist side.
+  # papers:
+  #    - title: MS Project
 
      # - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
      #  link: "#"
