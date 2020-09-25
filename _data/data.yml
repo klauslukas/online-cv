@@ -80,10 +80,12 @@ experiences:
 publications:
     title: Why might you want me?
     intro: |
-      Except delivering my own projects I did participating on projects with the best PMs in ČSOB.
-      In February 2019 I gained PRINCE2®Foundation certification.
-      I have lead both IT and BUS projects.
-      During my IT career a gained a lot of experience with projects from IT specialist side.
+      <ul>
+       <li>Except delivering my own deliveries I did participating on projects with the best PMs in ČSOB.
+       <li>In February 2019 I gained PRINCE2®Foundation certification.
+       <li>I have lead both IT and BUS projects.
+       <li>During my IT career a gained a lot of experience with projects from IT specialist side.
+      </ul> 
   # papers:
   #    - title: MS Project
 
@@ -96,11 +98,9 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: MS Project
-        level: 80%
-
+    
       - name: JIRA
-        level: 80%
+        level: 85%
 
       - name: Sharepoint
         level: 90%
@@ -116,5 +116,8 @@ skills:
 
       - name: MS Word
         level: 95%
+        
+      - name: MS Project
+        level: 85%
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
